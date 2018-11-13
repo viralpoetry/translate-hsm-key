@@ -1,6 +1,6 @@
 # translate-hsm-key  
 
-## import, export multiple key cryptograms with Thales payShield 9000 using both TCP, Serial interface  
+import, export multiple key cryptograms with Thales payShield 9000 using both TCP, Serial interface  
 
 ## How  
 See `keys/config.csv` on how to define an example job with keys to be imported / exported.  
